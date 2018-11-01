@@ -11,7 +11,8 @@ void    Game::main_menu()
 {
     int a;
     My_getch get;
-
+    
+    cout << "\033[2J\033[1;1H";
     cout << "\033[1;31mWelcome to console 2048!\033[0m" << endl << endl;
     cout << run << endl;
     cout << help << endl;
