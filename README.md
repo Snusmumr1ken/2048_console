@@ -1,6 +1,10 @@
 ## 2048 console game
 
 
+### Screenshots
+![Alt text](resources/image1.png?raw=true "Example_1")
+
+
 ### History
 When I was younger, much younger then today, I've decided to implement a classical 2048 game in a console.
 
