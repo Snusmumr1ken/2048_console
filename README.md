@@ -2,7 +2,7 @@
 
 
 ### Screenshots
-![Alt text](resources/image1.png?raw=true "Example_1")
+<img src="resources/image1.png" alt="Example screenshot 1" width="779" height="460">
 
 
 ### History
