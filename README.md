@@ -2,7 +2,7 @@
 
 
 ### Screenshots
-<img src="resources/image1.png" alt="Example screenshot 1" width="779" height="460">
+<img src="resources/image1.png" alt="Example screenshot 1" width="623" height="368">
 
 
 ### History
