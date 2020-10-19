@@ -1,3 +1,19 @@
-# 2048 console game
+## 2048 console game
 
-[![asciicast](https://asciinema.org/a/EDSW17v3uIH9StqQclwwur124.svg)](https://asciinema.org/a/EDSW17v3uIH9StqQclwwur124)
+
+### History
+When I was younger, much younger then today, I've decided to implement a classical 2048 game in a console.
+
+I've done it using C++ and my little knowledge in it.
+
+But anyway I love this project, beacuse it reminds me about my passion for games and programming.
+
+### How to run
+
+
+### Screenshots
+<img src="resources/image1.png" alt="Example screenshot 1" width="623" height="368">
+
+<img src="resources/image2.png" alt="Example screenshot 1" width="623" height="368">
+
+<img src="resources/example.gif" alt="Example screenshot 1" width="623" height="368">
