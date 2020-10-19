@@ -1,28 +1,21 @@
-######################################################
-#                                                    #
-#         Makefile is created by anyvchyk            #
-#            for 2048_console  project               #
-#                                                    #
-######################################################
-
 SRC		= game.cpp main.cpp my_getch.cpp
 
 OBJ		= $(SRC:.cpp=.o)
 
-NAME		= 2048
+NAME	= 2048
 
 all: $(NAME)
 
 $(NAME): $(OBJ)
-	@clear && g++ $(OBJ) -o $(NAME) && clear && ./2048
+	g++ -std=c++11 $(OBJ) -o $(NAME)
 
 $(OBJ): $(SRC)
-	@g++ -c $(SRC)
+	g++ -std=c++11 -c $(SRC)
 
 clean:
-	@rm -f $(OBJ)
+	rm -f $(OBJ)
 
 fclean: clean
-	@rm -f $(NAME)
+	rm -f $(NAME)
 
 re: fclean all

@@ -67,7 +67,7 @@ void    Game::main_menu()
         else if (exit[7] == '>')
         {
             cout << "\033[2J\033[1;1H";
-            cout << "\033[1;32mGood luck:)\n Bye!\033[0m\n\n\n\n\n\n\n";
+            cout << "\033[1;32mGood luck:)\nBye!\033[0m\n";
             return ;
         }
         else if (credits[7] == '>')
