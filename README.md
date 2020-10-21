@@ -21,6 +21,6 @@ But anyway I love this project, beacuse it reminds me about my passion for games
 ### Screenshots
 <img src="resources/image1.png" alt="Example screenshot 1" width="623" height="368">
 
-<img src="resources/image2.png" alt="Example screenshot 1" width="623" height="368">
+<img src="resources/image2.png" alt="Example screenshot 2" width="623" height="368">
 
-<img src="resources/example.gif" alt="Example screenshot 1" width="623" height="368">
+<img src="resources/example.gif" alt="Example gif" width="623" height="368">
