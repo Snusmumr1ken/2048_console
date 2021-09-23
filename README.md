@@ -5,7 +5,7 @@
 
 I've done it using C++ and my little knowledge in it.
 
-But anyway I love this project, beacuse it reminds me about my passion for games and programming.
+But anyway I love this project, because it reminds me about my passion for games and programming.
 
 ### Requirements and dependencies
 * Unix-like system
